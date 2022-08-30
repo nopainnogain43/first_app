@@ -1,0 +1,31 @@
+html, body{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* リセットCSSここまで */
+
+.contents{
+  height: 100%;
+  display: flex;
+  
+}
+
+.left_contents{
+  width: 300px;
+  height: 100%;
+  background-color: #333;
+  color: white;
+}
+
+.right_contents{
+  width:700px;
+  height:100%;
+  background-color:#111;
+  color:white;
+}
+
+.left_contents,.right_contents{
+  width:50%;
+}

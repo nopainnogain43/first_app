@@ -1,0 +1,45 @@
+body{
+    height:800px;
+    display:flex;
+}
+
+.side-bar{
+    width:280px;
+    background:lightgray;
+}
+
+.main{
+    width:1200px;
+}
+
+.main-header{
+    height:120px;
+    background-color:lightblue;
+}
+
+.main-content{
+    height:680px;
+    background-color:lightpink;
+}
+
+.massages{
+    padding:32px;
+}
+
+.message{
+    border:1px solid white;
+    padding:20px 40px;
+    margin-bottom:28px;
+}
+
+.massage-neme{
+    font-size:16px;
+    margin-bottom:10px;
+}
+
+.massage-body{
+    margin-bottom:10px;
+    font-size:24px;
+    
+}
+
